@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "523995652299",
+    "firebase_url": "https://garagepool1.firebaseio.com",
+    "project_id": "garagepool1",
+    "storage_bucket": "garagepool1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523995652299:android:72fd01c7874d2efe",
+        "android_client_info": {
+          "package_name": "com.example.mac.garagepool1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523995652299-82m746lais47kdtnvk9evie3jgp7foa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mac.garagepool1",
+            "certificate_hash": "7085a2778b76a1b69c85292c6dd17a29d51b7ed7"
+          }
+        },
+        {
+          "client_id": "523995652299-0b0nkkq1gna0sbr8ip86ubl66vb6vr6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkp9urfttxJI8HVgazdFesOIstAburm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523995652299-0b0nkkq1gna0sbr8ip86ubl66vb6vr6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

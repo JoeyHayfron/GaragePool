@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a091b</color>
+    <color name="colorPrimaryDark">#070716</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="TextBottom">#FFF</color>
+    <color name="rippleEffectColor">#f816a463</color>
+    <color name="btnSignIn">#323232</color>
+    <color name="btnRegister">#646464</color>
+    <color name="mapboxWhite">#FFFFFF</color>
+</resources>

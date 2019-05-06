@@ -1,0 +1,22 @@
+apply plugin: 'android-library'
+
+android {
+
+  // Define these properties in the gradle.properties file in the root project folder
+  compileSdkVersion 26
+
+
+  defaultConfig {
+    minSdkVersion 20
+    targetSdkVersion 26
+    multiDexEnabled true
+  }
+
+  sourceSets.main {
+    manifest.srcFile 'AndroidManifest.xml'
+    java.srcDirs = ['src']
+    res.srcDirs = ['res']
+  }
+
+
+}

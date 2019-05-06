@@ -1,0 +1,3 @@
+# Referenced at /Users/mac/AndroidStudioProjects/GaragePool1/lib/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml:9
+-keep class com.android.test.runner.MultiDexTestRunner { <init>(...); }
+
